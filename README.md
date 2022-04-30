@@ -33,19 +33,5 @@ An example setting file "_forcelinefeedcode.xml" is below,
 Public domain
 
 # Release History
-v1.9  
-Fix don't parse the first entry of a setting file.  
-Change to search a setting file from the directory of the focused file.  
-v1.8  
-Add a option to load a setting file.  
-v1.7  
-Up .Net Framework to 4.7.2    
-Fix using deprecated APIs.  
-v1.3  
-Rebuild with VS 2019 to fix a error about deprecation.  
-v1.2  
-Fix referenced COM components and prerequisites.  
-v1.1  
-Add other languages option  
 v1.0  
-Initial release.
+64 bit version's initial release.
